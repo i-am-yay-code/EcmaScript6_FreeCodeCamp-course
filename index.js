@@ -1,4 +1,4 @@
-
+// Attention, please! This code is not finished yet )
 
 
 console.log("Hi, it`s ecmascript 6!!!")
