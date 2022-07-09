@@ -138,7 +138,7 @@ funWithDefault(); // returns Uncaught TypeError TypeError (without default param
 */
 
 
-//---------- 10. Includes -----------------
+//-------------- 10. Includes -----------------
 //
 
 
