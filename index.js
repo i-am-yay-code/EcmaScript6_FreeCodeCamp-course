@@ -251,11 +251,12 @@ add(2);
 // ----------------17. Async & Await ----------------
 //
 
+/*
 import fetch from "node-fetch";
 
 let apiUrl = "https://api.github.com/users/i-am-yay-code"
 let brokenApiUrl = "1234https://api.github.com/users/i-am-yay-code"
-
+*/
 
 
 // Without async & await
@@ -314,6 +315,7 @@ getAsyncData();
 // ------------------ 19. Sets ----------------------
 // 
 
+/*
 const exampleSet = new Set([1, 1, 1, 1, 1, 1, 2, 3]);
 
 console.log(`Size = ${exampleSet.size}`);
@@ -325,4 +327,4 @@ console.log(`has(5)? = ${exampleSet.has(5)}`);
 
 exampleSet.clear();
 console.log(`Size = ${exampleSet.size}`);
-
+*/
