@@ -1,0 +1,24 @@
+{
+  "name": "ecmascript6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-am-yay-code/EcmaScript6_FreeCodeCamp-course.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i-am-yay-code/EcmaScript6_FreeCodeCamp-course/issues"
+  },
+  "homepage": "https://github.com/i-am-yay-code/EcmaScript6_FreeCodeCamp-course#readme",
+  "type": "module",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.2.6"
+  }
+}
